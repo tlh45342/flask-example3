@@ -30,8 +30,8 @@ python server.py
     ├── README.md                   This document
     ├── requirements.txt            3rd libraries
     ├── server.py                   Wsgi app
-    ├── app
-    └──├── __init__.py
+    └── app
+       ├── __init__.py
        ├── app.py                   Main App
        ├── user
        ├── api
@@ -48,7 +48,7 @@ python server.py
 
 ## LICENSE
 
-Apache
+flask-example2 is licensed under the Apache License, Version 2.0. See LICENSE for the full license text.
 
 ## ACKNOWLEDGEMENTS
 
