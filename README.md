@@ -1,3 +1,9 @@
+# INTRODUCTION
+
+flask-example3 is a simple example flask app that uses SSL, flask_login, and sqlite. 
+
+- learning Flask.
+- kicking off your new project.
 
 
 ## Flask example repositories
@@ -18,3 +24,32 @@ cd flask-example3
 pip install -r requirements.txt
 python server.py
 ```
+
+## STRUCTURE
+
+    ├── README.md                   This document
+    ├── requirements.txt            3rd libraries
+    ├── server.py                   Wsgi app
+    ├── app
+       ├── __init__.py
+       ├── app.py                   Main App
+       ├── user
+       ├── api
+       ├── static                   Static files
+       │   ├── css
+       └── templates                Jinja2 templates
+           ├── errors
+           ├── frontend
+           └── index.html
+ 
+## TODO
+
+- What?
+
+## LICENSE
+
+Apache
+
+## ACKNOWLEDGEMENTS
+
+Many thanks to Python, Flask and other good stacks.
