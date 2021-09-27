@@ -31,12 +31,12 @@ python server.py
     ├── requirements.txt            3rd libraries
     ├── server.py                   Wsgi app
     ├── app
-       ├── __init__.py
+    └──├── __init__.py
        ├── app.py                   Main App
        ├── user
        ├── api
        ├── static                   Static files
-       │   ├── css
+       │   └── css
        └── templates                Jinja2 templates
            ├── errors
            ├── frontend
