@@ -8,7 +8,7 @@ flask-example3 is a simple example flask app that uses SSL, flask_login, and sql
 
 ## Flask example repositories
 
-Just to explain the repositries and their puprose.  I wanted to keep the examples as seperate repositores - the better to summon up "just enough".
+Just to explain the repositories and their puprose.  I wanted to keep the examples as seperate repositores - the better to summon up "just enough".
 
 - flask-example0 - basic "text" book example
 - flask-example1 - basic example using flask_login and sqlite.
