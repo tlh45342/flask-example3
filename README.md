@@ -36,7 +36,7 @@ python server.py
        ├── user
        ├── api
        ├── static                   Static files
-       │   └── css
+       │   └── mystyle.css
        └── templates                Jinja2 templates
            ├── errors
            ├── frontend
