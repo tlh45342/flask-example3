@@ -42,9 +42,9 @@ python server.py
            ├── frontend
            └── index.html
  
-## TODO
+## Version
 
-- What?
+- 09/26/2021 - Almost ready?
 
 ## LICENSE
 
